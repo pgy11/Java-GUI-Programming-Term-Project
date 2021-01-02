@@ -19,7 +19,7 @@
 
   - 관리자 ID : 2014
   - 관리자 비밀번호 : 0000
-  - InitailScreen.java 실행
+  - InitialScreen.java 실행
 
 
 
