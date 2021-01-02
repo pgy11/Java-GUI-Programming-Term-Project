@@ -15,7 +15,7 @@
     - Send a message to members 미구현
     - Send a message to manager 미구현
 
-  </br></br>
+  </br>
 
   - 관리자 ID : 2014
   - 관리자 비밀번호 : 0000
