@@ -2,8 +2,6 @@
 
 - # 컴퓨터 프로그래밍 및 실습(1학년)
 
-  - 201401140 Giyoon Park
-
   - 2017.12.12 제출 <br/></br>
 
   - ### JAVA GUI Programming <br/></br>
