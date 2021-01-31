@@ -2,12 +2,9 @@
 
 - # 컴퓨터 프로그래밍 및 실습(1학년)
 
-  - 2017.12.12 제출 <br/></br>
-
+  - ### 2017.12.12 제출 <br/></br>
   - ### JAVA GUI Programming <br/></br>
-
   - ### 도서관 관리 프로그램 <br/></br>
-
   - ### Library Management Description.pdf  참고
 
     - Send a message to members 미구현
